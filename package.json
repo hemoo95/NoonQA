@@ -1,0 +1,17 @@
+{
+  "name": "poject-7-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ozil",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.10.0"
+  },
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
